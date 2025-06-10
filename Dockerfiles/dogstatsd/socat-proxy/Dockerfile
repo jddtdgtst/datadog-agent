@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.22.0
 
 LABEL maintainer "Datadog <package@datadoghq.com>"
 

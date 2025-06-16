@@ -11,3 +11,4 @@ toml~=0.10.2
 slack-sdk~=3.27.1
 beautifulsoup4~=4.12.3
 lxml~=5.2.2
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
